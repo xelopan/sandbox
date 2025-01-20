@@ -2,4 +2,9 @@ body {
     background-color: #dddddd;
     font-family: 'Courier New', Courier, monospace;
     padding: 5rem;
+    font-size: 10;
+}
+
+h3 {
+    font-size: 2.3rem;
 }
