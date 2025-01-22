@@ -1,4 +1,11 @@
 body {
     background-color: #dddddd;
-    font-family: sans-serif;
+    font-family: 'Courier New', Courier, monospace;
+    padding: 5rem;
+    font-size: 10;
+}
+
+h3 {
+    font-size: 2.3rem;
+    padding-top: 3rem;
 }
